@@ -34,7 +34,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
   
   **Description:** A website built by students from *PKU, THU, UCAS* and other universities, aiming to construct a platform that can provide study resources, experience from sinor students, and own-service come from any student who has a special skill.
   
-  **Responsibilities:** ***a.* ** design and realize of **front-end**, code in *AngularJS* and *BootStrap*, ***b.*** **test front-end** using *Karma*, ***c.*** **auto-deploy** by *Gulp*, and participate in part of product design.    
+  **Responsibilities:** ***a.*** design and realize of **front-end**, code in *AngularJS* and *BootStrap*, ***b.*** **test front-end** using *Karma*, ***c.*** **auto-deploy** by *Gulp*, ***d.*** complete **file upload/download** logic based on *Qiniu* cloud, and participate in part of product design.    
 	
 * **Manage and Analysis of Massive Idoor Moving Objects based on Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
 
@@ -45,7 +45,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 	
 * ***HER* &nbsp;&nbsp;&nbsp;Business Project/Developer&nbsp;&nbsp;Oct. 2014 - Mar. 2015**
 
-	**Descripiton:** *HER* is short for Hazard, Exposure, Risk. It utilizes historical hazard data, exposure data, and insurance policy data to predict risk probability and whether a new policy is worthy to take. Launched by a Dr. of Structure who resigned from a reinsurance company.
+	**Descripiton:** *HER* is short for Hazard, Exposure, Risk. It utilizes historical hazard data, exposure data, and insurance policy data to predict risk probability and whether a new policy is worth to take. Launched by a Dr. of Structure who resigned from a reinsurance company.
 	
 	**Responsibilities:** ***a.*** Find, analyze and **crawl down** accessible hazard, exposure data, coded in Python, ***b.*** **design table structure** for GIS data on *PostGIS*, maintain datatbase, ***c.*** provide **data query API** for business staff in *Java*.
 	
