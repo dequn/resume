@@ -6,7 +6,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 * **Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China**
 
     Master of Cartography and Geography Information System, exptected July 2017.
-* ** Henan Polytechnic University, Jiaozuo, China**
+* **Henan Polytechnic University, Jiaozuo, China**
 
     Bachelor of Geography Information System, graduated June 2014. Top 3%
 
@@ -36,14 +36,14 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
   
   **Responsibilities:** ***a.* ** design and realize of **front-end**, code in *AngularJS* and *BootStrap*, ***b.*** **test front-end** using *Karma*, ***c.*** **auto-deploy** by *Gulp*, and participate in part of product design.    
 	
-* ** Manage and Analysis of Massive Idoor Moving Objects based on Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
+* **Manage and Analysis of Massive Idoor Moving Objects based on Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
 
 	**Description:** Taking advantage of **HBase** to store massive data of indoor moving objects, build a **Spatial-
 	Temporal Index** mainly by designing a resonable **row-key** of hbase, then make some data mining work on **Spark**.
 	
 	**Responsibilities:** ***a.*** **Setting up basic environment** such as *Hadoop, Hbase, Spark* on a seven-nodes cluster, ***b.*** **design the row-key composition** based on the analysis of feature of *IMO*s , ***c.*** *TODO*:**provide API of data query** and do some **data-mining** work(expected in scala).
 	
-* ** *HER* &nbsp;&nbsp;&nbsp;Business Project/Developer&nbsp;&nbsp;Oct. 2014 - Mar. 2015**
+* ***HER* &nbsp;&nbsp;&nbsp;Business Project/Developer&nbsp;&nbsp;Oct. 2014 - Mar. 2015**
 
 	**Descripiton:** *HER* is short for Hazard, Exposure, Risk. It utilizes historical hazard data, exposure data, and insurance policy data to predict risk probability and whether a new policy is worthy to take. Launched by a Dr. of Structure who resigned from a reinsurance company.
 	
