@@ -15,7 +15,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
-* Experience in web development(**Python, J2EE, H5 + CSS3 + JS**), know *.NET*.
+* Experience in web development(**Python, JavaEE, H5 + CSS3 + JS**), know *.NET*.
 
 
 
@@ -36,7 +36,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
   
   **Responsibilities:** ***a.*** design and realize of **front-end**, code in *AngularJS* and *BootStrap*, ***b.*** **test front-end** using *Karma*, ***c.*** **auto-deploy** by *Gulp*, ***d.*** complete **file upload/download** logic based on *Qiniu* cloud, and participate in part of product design.    
 	
-* **Manage and Analysis of Massive Idoor Moving Objects based on Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
+* **Manage and Analysis of Massive Indoor Moving Objects based on Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
 
 	**Description:** Taking advantage of **HBase** to store massive data of indoor moving objects, build a **Spatial-
 	Temporal Index** mainly by designing a resonable **row-key** of hbase, then make some data mining work on **Spark**.
@@ -57,6 +57,15 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 	
 ## Interns & Honors
 * Allenaya, LLC. Beijing, China.&nbsp;&nbsp;&nbsp;&nbsp;  Developer&nbsp;&nbsp;&nbsp;&nbsp;Oct. 2014 - Jan. 2015
+
+
+
 * Key Lab. of Mine Spaital Information Technic, National Administration of Surving, Mapping and GeoInformation, Jiaozuo, China&nbsp;&nbsp;&nbsp;&nbsp;  Developer&nbsp;&nbsp;&nbsp;&nbsp;Oct. 2012 - May. 2013
-* 2015 Beijing Marathon, Dr. Chorus, Annual Conference of *CSNR*, 2015, etc.&nbsp;&nbsp;&nbsp;&nbsp; Volunteer&nbsp;&nbsp;&nbsp;&nbsp; 2014 - 2015
+
+
+
 * National Encouragement Scholarship, First-class Scholarship(twice), etc. 2011-2013
+
+
+
+* 2015 Beijing Marathon, Dr. Chorus, Annual Conference of *CSNR*, 2015, etc.&nbsp;&nbsp;&nbsp;&nbsp; Volunteer&nbsp;&nbsp;&nbsp;&nbsp; 2014 - 2015
