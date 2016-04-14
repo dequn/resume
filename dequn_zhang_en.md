@@ -5,7 +5,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 ## Education
 * **Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China**
 
-    Master of Cartography and Geography Information System, exptected July 2017.
+    Master of Cartography and Geography Information System, estimated July 2017.
 * **Henan Polytechnic University, Jiaozuo, China**
 
     Bachelor of Geography Information System, graduated June 2014. Top 3%

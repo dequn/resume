@@ -11,12 +11,11 @@
 ## 个人技能
 *  掌握常用**数据结构**和**算法**
 
-* 掌握 **Web** 开发( *Python, JavaEE, H5 + CSS3 + JS*)，能够熟练使用 **AngularJS + Bootstrap** 框架进行开发，对***.NET***开发有一定了解与掌握
+* 掌握 **Web** 开发( *Python, Java, H5 + CSS3 + JS*)，能够熟练使用 **AngularJS + Bootstrap** 框架进行开发，对***.NET***开发有一定了解与掌握
 
 
 
-* 适应在 **Linux/OS X** 环境下开发，熟悉 *CentOS/Ubuntu* 开源操作系统，熟练掌握 **PostgreSQL**，对 *Mongo* 有一定的了解和熟悉
-
+* 适应在 **Linux/OS X** 环境下开发，熟悉 *CentOS/Ubuntu* 开源操作系统，熟练掌握 **PostgreSQL**
 
 
 * 对 **Hadoop, Hbase, Spark** 等分布式存储、并行计算环境有基础的使用经验
@@ -42,7 +41,7 @@
 
 	*项目介绍:* *HER* 是 Hazard, Exposure, Risk 的缩写。利用历史灾害数据、暴露数据以及保单数据进行数据挖掘，用来评估保单风险，主要用于保险、再保险业务。
 	
-	*个人职责:* ***a.*** 使用**爬虫**抓取可用数据源（Python实现）； ***b.*** **设计和维护PostGIS**数据库结构，管理约2T的观测站点数据和栅格插值数据； ***c.*** 为业务人员**提供数据查询接口**（ Java 实现）。
+	*个人职责:* ***a.*** 使用**爬虫**抓取可用数据源（Python实现）； ***b.*** **设计和维护PostGIS**数据库结构； ***c.*** 为业务人员**提供数据查询接口**（ Java 实现）。
 	
 * **基于百度地图API的河南理工大学校园地图设计与开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大学生技能训练项目/小组长/开发人员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012.10 - 2013.01**
 
