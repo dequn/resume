@@ -19,7 +19,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
-* Work on **Linux/OS X**, familiar with *CentOS/Ubuntu*, fimiliar in **PostgreSQL**, know mongo.
+* Work on **Linux/OS X**, familiar with *CentOS/Ubuntu*, fimiliar in **PostgreSQL**.
 
 
 
@@ -53,7 +53,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 	*Description:* Build a ***web campus map*** for my own university based on free accessible map API.
 	
-	*Responibilities:* ***a.*** act as **team leader** for a six-people team, including data collectors and developers, ***b.*** **design and develop** system, *ASP.NET* for server side and *JS* for map showing and manipulation. ***c.*** establish and maintain *SQL Server* database.
+	*Responibilities:* ***a.*** act as **team leader** of a six-people group, including data collectors and developers, ***b.*** **design and develop** system, *ASP.NET* for server side and *JS* for map showing and manipulation. ***c.*** establish and maintain *SQL Server* database.
 	
 ## Interns & Honors
 * Allenaya, LLC. Beijing, China.&nbsp;&nbsp;&nbsp;&nbsp;  Developer&nbsp;&nbsp;&nbsp;&nbsp;Oct. 2014 - Jan. 2015
@@ -64,7 +64,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
-* National Encouragement Scholarship, First-class Scholarship(twice), etc. 2011-2013
+* National Encouragement Scholarship, First-class Scholarship (twice), etc. 2011-2013
 
 
 
