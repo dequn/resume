@@ -15,27 +15,28 @@
 
 
 
-* 适应在 **Linux/OS X** 环境下开发，熟悉 *CentOS/Ubuntu* 开源操作系统，熟练掌握 **PostgreSQL**
+* 适应在 **Linux/OS X** 环境下开发，熟悉 *CentOS/Ubuntu* 开源操作系统，熟练掌握 **PostgreSQL, PostGIS**
 
 
-* 对 **Hadoop, Hbase, Spark** 等分布式存储、并行计算环境有基础的使用经验
+* 对 **Hadoop, Hbase ** 等分布式存储、并行计算环境有基础的使用经验
 
 
 
 * 能够熟练使用 **Git** 与团队进行合作开发，熟练使用 **Vim**， 掌握常用 **Shell** 命令
 
 ## 项目经历
-* **[校园星空网](http://xinghuan.com)&nbsp;&nbsp;联合创始人/前端&nbsp;&nbsp;&nbsp;&nbsp; 2015.05 至今**
-  
-  *项目介绍:* 由北大、清华、国科大等多所高校学生联合创立，旨在建立大学生的学习资料、经验的分享平台，并打造具有专长学生的自营销服务。
-  
-  *个人职责:* ***a.*** **前端设计与开发**( *AngularJS* and *BootStrap*)； ***b.*** 利用 *Karma + Jasmine* 对**前端**代码进行**测试**； ***c.*** 利用 *Gulp* 进行前端**自动化部署**； ***d.*** 基于*七牛云*完成**文件上传/下载**服务， 参与部分的产品设计工作。
-	
-* **基于HBase的海量室内移动对象管理与分析&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课题项目/设计/开发人员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015.12 至今**
+
+* **基于HBase的海量室内移动对象管理与分析&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课题项目/设计/开发人员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016.01 至今**
 
 	*项目介绍:* 利用HBase在海量数据存储方面在优势，通过设计合理的Row-key建立针对室内移动数据的**时空索引**，并在Spark平台上进行数据挖掘工作。
 	
 	*个人职责:* ***a.*** 在由七个结点组成的集群上**配置** *Hadoop, Hbase, Spark* 等**基础环境**；***b.*** **分析**室内移动对象数据的特点，并结合需求**设计**合理的**Row-key**组成； ***c.*** *TODO*: 提供数据查询接口并进行数据挖掘工作（预 Scala 实现）。
+
+* **[SendCats](http://sendcats.com)&nbsp;&nbsp;联合创始人/前端&nbsp;&nbsp;&nbsp;&nbsp; 2015.05 - 2016.03**
+  
+  *项目介绍:* 由北大、清华、国科大等多所高校学生联合创立，旨在建立大学生的学习资料、经验的分享平台，并打造具有专长学生的自营销服务。
+  
+  *个人职责:* ***a.*** **前端设计与开发**( *AngularJS* and *BootStrap*)； ***b.*** 利用 *Karma + Jasmine* 对**前端**代码进行**测试**； ***c.*** 利用 *Gulp* 进行前端**自动化部署**； ***d.*** 基于*七牛云*完成**文件上传/下载**服务， 参与部分的产品设计工作。
 	
 * ***HER* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;商业项目/开发人员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014.10 - 2015.03**
 

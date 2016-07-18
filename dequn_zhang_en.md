@@ -13,35 +13,27 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 ## Skills
 * Familiar with **Data Structure** and **Algorithm**.
 
-
-
 * Experience in web development(**Python, JavaEE, H5 + CSS3 + JS**), know *.NET*.
 
+* Work on **Linux/OS X**, familiar with *CentOS/Ubuntu*, fimiliar in **PostgreSQL, PostGIS**.
 
-
-* Work on **Linux/OS X**, familiar with *CentOS/Ubuntu*, fimiliar in **PostgreSQL**.
-
-
-
-* Basic experience of Hadoop, HBase, Spark.
-
-
+* Basic experience of Hadoop, HBase.
 
 * Use **Git** co-work with team, proficient in **vim, shell** and other tools.
 
 ## Projects
-* **[XiaoYuanXingKong](http://xinghuan.com)&nbsp;&nbsp;Co-founder/Front-end&nbsp;&nbsp;&nbsp;&nbsp;May. 2015 - Present**
-  
-  *Description:* A website built by students from *PKU, THU, UCAS* and other universities, aiming to construct a platform that can provide study resources, experience from sinor students, and own-service come from any student who has a special skill.
-  
-  *Responsibilities:* ***a.*** design and realize of **front-end**, code in *AngularJS* and *BootStrap*, ***b.*** **test front-end** using *Karma*, ***c.*** **auto-deploy** by *Gulp*, ***d.*** complete **file upload/download** logic based on *Qiniu* cloud, and participate in part of product design.    
-	
 * **Manage and Analysis of Massive Indoor Moving Objects based on Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
 
 	*Description:* Taking advantage of **HBase** to store massive data of indoor moving objects, build a **Spatial-
 	Temporal Index** mainly by designing a resonable **row-key** of hbase, then make some data mining work on **Spark**.
 	
 	*Responsibilities:* ***a.*** **Setting up basic environment** such as *Hadoop, Hbase, Spark* on a seven-nodes cluster, ***b.*** **design the row-key composition** based on the analysis of feature of *IMO*s , ***c.*** *TODO*:**provide API of data query** and do some **data-mining** work(expected in scala).
+	
+* **[SendCats](http://sendcats.com)&nbsp;&nbsp;Co-founder/Front-end&nbsp;&nbsp;&nbsp;&nbsp;May. 2015 - Mar. 2016**
+  
+  *Description:* A website built by students from *PKU, THU, UCAS* and other universities, aiming to construct a platform that can provide study resources, experience from sinor students, and own-service come from any student who has a special skill.
+  
+  *Responsibilities:* ***a.*** design and realize of **front-end**, code in *AngularJS* and *BootStrap*, ***b.*** **test front-end** using *Karma*, ***c.*** **auto-deploy** by *Gulp*, ***d.*** complete **file upload/download** logic based on *Qiniu* cloud, and participate in part of product design.    
 	
 * ***HER* &nbsp;&nbsp;&nbsp;Business Project/Developer&nbsp;&nbsp;Oct. 2014 - Mar. 2015**
 
