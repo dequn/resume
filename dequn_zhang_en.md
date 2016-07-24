@@ -1,8 +1,7 @@
-# Dequn Zhang
-Mobile: (+86)13070175160&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: <dequn92@foxmail.com>
-  
-WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: <http://github.com/dequn>
-## Education
+<link rel="stylesheet" href="./en.css" />
+## Dequn Zhang
+Mobile: (+86)13070175160&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: <dequn92@foxmail.com>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: <http://github.com/dequn>
+### Education
 * **Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China**
 
     Master of Cartography and Geography Information System, estimated July 2017.
@@ -10,19 +9,19 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
     Bachelor of Geography Information System, graduated June 2014. Top 3%
 
-## Skills
+### Skills
 * Familiar with **Data Structure** and **Algorithm**.
 
 * Experience in web development(**Python, JavaEE, H5 + CSS3 + JS**), know *.NET*.
 
 * Work on **Linux/OS X**, familiar with *CentOS/Ubuntu*, fimiliar in **PostgreSQL, PostGIS**.
 
-* Basic experience of Hadoop, HBase.
+* Basic experience of **Hadoop, HBase**.
 
 * Use **Git** co-work with team, proficient in **vim, shell** and other tools.
 
-## Projects
-* **Manage and Analysis of Massive Indoor Moving Objects based on Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
+### Projects
+* **Manage and Analysis of Indoor Moving Objects on Hadoop, Hase&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject/Designer/Developer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015 - Present**
 
 	*Description:* Taking advantage of **HBase** to store massive data of indoor moving objects, build a **Spatial-
 	Temporal Index** mainly by designing a resonable **row-key** of hbase, then make some data mining work on **Spark**.
@@ -47,7 +46,7 @@ WebSite: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 	
 	*Responibilities:* ***a.*** act as **team leader** of a six-people group, including data collectors and developers, ***b.*** **design and develop** system, *ASP.NET* for server side and *JS* for map showing and manipulation. ***c.*** establish and maintain *SQL Server* database.
 	
-## Interns & Honors
+### Interns & Honors
 * Allenaya, LLC. Beijing, China.&nbsp;&nbsp;&nbsp;&nbsp;  Developer&nbsp;&nbsp;&nbsp;&nbsp;Oct. 2014 - Jan. 2015
 
 

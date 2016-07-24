@@ -1,14 +1,15 @@
-# 张得群
+<link rel="stylesheet" href="./cn.css">
+## 张得群
 手机: (+86)13070175160&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱: <dequn92@foxmail.com>
   
 个人网站: <http://dequn.github.io>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: <http://github.com/dequn>
-## 教育背景
+### 教育背景
 * **中国科学院地理科学与资源研究所**&nbsp;&nbsp;硕士&nbsp;&nbsp;&nbsp;&nbsp;地图学与地理信息系统&nbsp;&nbsp;&nbsp;&nbsp;**Top 10%**&nbsp;&nbsp;&nbsp;&nbsp;2014.09 至今
 
 * **河南理工大学**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士&nbsp;&nbsp;&nbsp;&nbsp;地理信息系统&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Top 3%**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010.09 - 2014.06
 
 
-## 个人技能
+### 个人技能
 *  掌握常用**数据结构**和**算法**
 
 * 掌握 **Web** 开发( *Python, Java, H5 + CSS3 + JS*)，能够熟练使用 **AngularJS + Bootstrap** 框架进行开发，对***.NET***开发有一定了解与掌握
@@ -18,13 +19,13 @@
 * 适应在 **Linux/OS X** 环境下开发，熟悉 *CentOS/Ubuntu* 开源操作系统，熟练掌握 **PostgreSQL, PostGIS**
 
 
-* 对 **Hadoop, Hbase ** 等分布式存储、并行计算环境有基础的使用经验
+* 对 **Hadoop, Hbase** 等分布式存储、并行计算环境有基础的使用经验
 
 
 
 * 能够熟练使用 **Git** 与团队进行合作开发，熟练使用 **Vim**， 掌握常用 **Shell** 命令
 
-## 项目经历
+### 项目经历
 
 * **基于HBase的海量室内移动对象管理与分析&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课题项目/设计/开发人员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016.01 至今**
 
@@ -50,18 +51,14 @@
 	
 	*个人职责:* ***a.*** 负责协调小组（6人）成员分工； ***b.*** **设计和开发**系统， 服务器端采用*ASP.NET*开发，负责前端与地图操作相关的 **JS** 部分开发（基于*百度地图JS-API*）； ***c.*** 建立和维护*SQL Server*数据库，使用XML格式存储线段数据。
 	
-## 实习&其他
-
+### 实习&其他
 * 北京市安澜尔雅科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;开发人员，负责爬虫开发、数据处理与存储&nbsp;&nbsp;&nbsp;&nbsp;2014.10 - 2015.01
-
 
 
 * 河南理工大学矿山空间信息技术国家测绘地理信息局重点实验室&nbsp;&nbsp;&nbsp;&nbsp;  开发人员&nbsp;&nbsp;&nbsp;&nbsp;2012.10 - 2013.05
 
 
-
 * 国家励志奖学金， 一等奖学金(两次)，计算机等级考试四级数据库工程师，2012年大学生数据建模竞赛省三等奖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011-2013
-
 
 
 * 2015 北马， 博士合唱团， 2015自然资源学年会&nbsp;&nbsp;&nbsp;&nbsp; 志愿者&nbsp;&nbsp;&nbsp;&nbsp; 2014 - 2015
