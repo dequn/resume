@@ -16,7 +16,7 @@ Mobile: (+86)13070175160&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 * Work on **Linux/OS X**, familiar with *CentOS/Ubuntu*, fimiliar in **PostgreSQL, PostGIS**.
 
-* Basic experience of **Hadoop, HBase**.
+* Basic experience of **Hadoop, HBase, Phoenix**.
 
 * Use **Git** co-work with team, proficient in **vim, shell** and other tools.
 
@@ -34,7 +34,7 @@ Mobile: (+86)13070175160&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
   
   *Responsibilities:* ***a.*** design and realize of **front-end**, code in *AngularJS* and *BootStrap*, ***b.*** **test front-end** using *Karma*, ***c.*** **auto-deploy** by *Gulp*, ***d.*** complete **file upload/download** logic based on *Qiniu* cloud, and participate in part of product design.    
 	
-* ***HER* &nbsp;&nbsp;&nbsp;Business Project/Developer&nbsp;&nbsp;Oct. 2014 - Mar. 2015**
+* **HER &nbsp;&nbsp;&nbsp;Business Project/Developer&nbsp;&nbsp;Oct. 2014 - Mar. 2015**
 
 	*Descripiton:* *HER* is short for Hazard, Exposure, Risk. It utilizes historical hazard data, exposure data, and insurance policy data to predict risk probability and whether a new policy is worth to take. Launched by a Dr. of Structure who resigned from a reinsurance company.
 	
