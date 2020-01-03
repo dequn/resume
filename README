@@ -1,0 +1,8 @@
+安装pandoc 和 wkhtmltopdf 
+Github.css中的灰色背景（line:6), 段落行高（line:10） 被注释掉了。
+
+中文简历
+pandoc -t html zhang_dequn_cn2.md -V margin-left=10 -V margin-right=10 -V margin-top=20 -V margin-bottom=20 -V papersize=A4 -o resume.pdf
+
+英文简历
+pandoc -t html dequn_zhang_en.md -V margin-left=10 -V margin-right=10 -V margin-top=10 -V margin-bottom=10 -V papersize=A4 --css Github.css -o resume_en.pdf
